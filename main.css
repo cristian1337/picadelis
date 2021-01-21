@@ -1,0 +1,118 @@
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.titulo{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 17px;
+    text-transform: lowercase;
+}
+.descripcion{
+    font-size: 12px;
+    text-transform: lowercase;
+}
+.precio{
+    font-size: 18px;
+    font-weight: 800;
+    color: #E4CB1C;
+}
+.card {
+    border-radius: 8px;
+    margin: 8px;
+    padding: 1px 15px;
+    -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+}
+.menu-header{
+    display: flex;
+    height: 65px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #E4CB1C;
+}
+.menu-header i {
+    font-size: 28px;
+}
+.grid-container {
+    display: grid;
+    grid-template-rows: 260px 260px 260px 260px;
+    grid-template-columns: 50% 50%;
+}
+.grid-item1, .grid-item2, .grid-item3, .grid-item4, .grid-item5, .grid-item6, .grid-item7{
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+}
+.fondo-imagen{
+    background-image: url('./imagenes/DESAYUNOS.jpeg');
+    background-size: cover;
+    height: 100%;
+    border-radius: 8px;
+    -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+}
+.fondo-imagen2{
+    background-image: url('./imagenes/IMG_4344.jpg');
+    background-size: cover;
+    height: 100%;
+    border-radius: 8px;
+    background-position-x: center;
+    -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+}
+.fondo-imagen3{
+    background-image: url('./imagenes/IMG_4292.jpg');
+    background-size: cover;
+    height: 100%;
+    border-radius: 8px;
+    background-position-x: center;
+    -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+}
+.fondo-imagen4{
+    background-image: url('./imagenes/IMG_4362.jpg');
+    background-size: cover;
+    height: 100%;
+    border-radius: 8px;
+    background-position-x: center;
+    -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+}
+.fondo-imagen5{
+    background-image: url('./imagenes/heladeria.jpeg');
+    background-size: cover;
+    height: 100%;
+    border-radius: 8px;
+    background-position-x: center;
+    background-position-y: center;
+    -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+}
+.fondo-imagen6{
+    background-image: url('./imagenes/bebidas.jpeg');
+    background-size: cover;
+    height: 100%;
+    border-radius: 8px;
+    background-position-x: center;
+    background-position-y: center;
+    -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+}
+.fondo-imagen7{
+    background-image: url('./imagenes/adiciones.jpeg');
+    background-size: cover;
+    height: 100%;
+    border-radius: 8px;
+    background-position-x: center;
+    background-position-y: center;
+    -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+}
