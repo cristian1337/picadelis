@@ -22,7 +22,7 @@ p{
     padding: 1px 15px;
     -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
     -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
-    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+    box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.5);
 }
 .menu-header{
     display: flex;
@@ -33,6 +33,9 @@ p{
 }
 .menu-header i {
     font-size: 28px;
+}
+.menu-header a{
+    color: black;
 }
 .grid-container {
     display: grid;
@@ -106,7 +109,7 @@ p{
     box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
 }
 .fondo-imagen7{
-    background-image: url('./imagenes/adiciones.jpeg');
+    background-image: url('./imagenes/papas.jpg');
     background-size: cover;
     height: 100%;
     border-radius: 8px;
@@ -115,4 +118,23 @@ p{
     -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
     -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
     box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.5);
+}
+.imagen-producto {
+    height: 200px;
+}
+.americano{
+    background-image: url('./imagenes/DESAYUNOS.jpeg');
+    background-size: cover;
+}
+.cherry {
+    background-image: url('./imagenes/bebidas.jpeg');
+    background-size: cover;
+}
+.chicharron{
+    background-image: url('./imagenes/adiciones.jpeg');
+    background-size: cover;
+}
+.picada {
+    background-image: url('./imagenes/IMG_4292.jpg');
+    background-size: cover;
 }
