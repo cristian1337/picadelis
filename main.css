@@ -129,6 +129,7 @@ p{
 .cherry {
     background-image: url('./imagenes/bebidas.jpeg');
     background-size: cover;
+    background-position-y: center;
 }
 .chicharron{
     background-image: url('./imagenes/adiciones.jpeg');
