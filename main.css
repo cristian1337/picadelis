@@ -134,8 +134,90 @@ p{
 .chicharron{
     background-image: url('./imagenes/adiciones.jpeg');
     background-size: cover;
+    background-position-y: center;
 }
 .picada {
     background-image: url('./imagenes/IMG_4292.jpg');
     background-size: cover;
+    background-position-y: center;
+}
+.arepa-burger {
+    background-image: url('./imagenes/arepa-burger.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.hamburguesa-picadelis {
+    background-image: url('./imagenes/hamburguesa-picadelis.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.parrillada {
+    background-image: url('./imagenes/parrillada.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.perro-picadelis {
+    background-image: url('./imagenes/IMG_4362.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.costillas{
+    background-image: url('./imagenes/costillas-bbq.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.churrasco {
+    background-image: url('./imagenes/churrasco.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.champiñones{
+    background-image: url('./imagenes/pollo-champiñones.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.crepe-ranchero{
+    background-image: url('./imagenes/crepes-ranchero.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.pulpo {
+    background-image: url('./imagenes/copa-pulpo.jpeg');
+    background-size: cover;
+    background-position-y: center;
+}
+.arcoiris{
+    background-image: url('./imagenes/copa-arcoiris.jpeg');
+    background-size: cover;
+    background-position-y: center;
+}
+.brownie{
+    background-image: url('./imagenes/brownie-helado.jpeg');
+    background-size: cover;
+    background-position-y: center;
+}
+.chuleta{
+    background-image: url('./imagenes/chuleta.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.trucha-marinera {
+    background-image: url('./imagenes/trucha-marinera.jpeg');
+    background-size: cover;
+    background-position-y: center;
+}
+.mojarra {
+    background-image: url('./imagenes/mojarra.jpeg');
+    background-size: cover;
+    background-position-y: center;
+}
+.chorizos {
+    background-image: url('./imagenes/chorizos.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.ensalada-frutas{
+    background-image: url('./imagenes/ensalada-frutas.jpeg');
+    background-size: cover;
+    background-position-y: center;
 }
