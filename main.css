@@ -221,3 +221,18 @@ p{
     background-size: cover;
     background-position-y: center;
 }
+.malteada{
+    background-image: url('./imagenes/malteada.jpeg');
+    background-size: cover;
+    background-position-y: center;
+}
+.tamarindo{
+    background-image: url('./imagenes/tamarindo.jpeg');
+    background-size: cover;
+    background-position-y: center;
+}
+.tornados{
+    background-image: url('./imagenes/tornados-de-pollo.jpeg');
+    background-size: cover;
+    background-position-y: center;
+}
